@@ -1,3 +1,6 @@
+## requirements.txt (ไฟล์ติดตั้ง)
 pandas
+numpy
 matplotlib
 seaborn
+plotly
