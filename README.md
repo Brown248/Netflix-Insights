@@ -28,5 +28,5 @@
 
 1. **Clone โปรเจกต์นี้จาก GitHub**
    ```bash
-   git clone https://github.com/username/netflix-insights.git
+   git clone https://github.com/Brown248/Netflix-Insights.git
    cd data
